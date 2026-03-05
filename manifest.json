@@ -1,0 +1,10 @@
+{
+  "id": "note-open-tracker-plus",
+  "name": "Note Open Tracker Plus",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Tracks how often notes are opened and generates analytics (30/90/365 + all-time).",
+  "author": "Sri Vadrevu",
+  "authorUrl": "https://github.com/SriVadrevu",
+  "isDesktopOnly": false
+}
